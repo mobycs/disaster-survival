@@ -1,0 +1,6 @@
+{
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    "robloxLsp.completion.callParenthesess": true,
+    "robloxLsp.completion.endAutocompletion": true
+}
