@@ -2,5 +2,7 @@
     "editor.cursorBlinking": "phase",
     "editor.cursorSmoothCaretAnimation": true,
     "robloxLsp.completion.callParenthesess": true,
-    "robloxLsp.completion.endAutocompletion": true
+    "robloxLsp.completion.endAutocompletion": true,
+    "workbench.colorTheme": "Edge Dark",
+    "workbench.iconTheme": "eq-material-theme-icons"
 }
